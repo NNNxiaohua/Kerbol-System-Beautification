@@ -1,2 +1,2 @@
 # Kerbol-System-Beautification
-Installation Method: Download and install the two dependency mods mentioned above, and place the files into the GameData folder in the root directory of the game; Unzip this mod package and put the KerbolSystemBeautification folder into GameData; Launch the game, and it will take effect automatically, no additional settings required! 
+Installation Method: Download and install the two dependency modules mentioned above, and place the files into the GameData folder in the game's root directory; Extract this mod's compressed package, place the KSB folder into GameData; put Atmosphere into the KSB folder; launch the game to take effect! Compatible Versions: KSP 1.10.x / 1.11.x / 1.12.x
