@@ -1,2 +1,8 @@
 # Kerbol-System-Beautification
-Installation Method: Download and install the two dependency modules mentioned above, and place the files into the GameData folder in the game's root directory; Extract this mod's compressed package, place the KSB folder into GameData; put Atmosphere into the KSB folder; launch the game to take effect! Compatible Versions: KSP 1.10.x / 1.11.x / 1.12.x
+Put the KSB from GameData into the GameData folder in the root directory of Kerbal Space Program.
+Dependencies:
+EVE
+ModuleManager
+(Note! I do not own these dependencies)
+Compatible version: 1.10
+https://forum.kerbalspaceprogram.com/topic/229490-kerbol-system-beautification-visual-refresh-for-the-original-solar-system-mod/
